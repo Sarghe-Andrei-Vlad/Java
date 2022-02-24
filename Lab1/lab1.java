@@ -10,7 +10,7 @@ class Lab1 {
         System.out.println(n);
         int aux=0;
         aux=digitsum(n);
-        while(digitsum(aux)>9){
+        while(aux>9){
             aux=digitsum(aux);
         }
         System.out.println(aux);
@@ -20,7 +20,7 @@ class Lab1 {
         int nr=x;
         int s=0;
         while(nr!=0){
-            s=nr%10;
+            s+=nr%10;
             nr=nr/10;
         }
         return s;
