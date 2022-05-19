@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2002dc0-c6e0-416e-af06-dc98fcad775f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2Comp/Lab2Comp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2Homework/Lab2Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3Compulsory/Lab3Compulsory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3Homework/Lab3Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7Compulsory/Lab7Compulsory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/Lab 9 Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/concap.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/src/main/java/com/Choco/ChocoSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/src/main/java/com/Repository/AbstractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/src/main/java/com/Repository/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/src/main/java/com/Repository/ContinentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9Homework/src/main/java/com/Repository/CountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorul1/Laboratorul1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA---Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Comp/src/com/company/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Comp/src/com/company/RoomType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Comp/src/com/company/RoomType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Event.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Hall.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Hall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Lab.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Lab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Problem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Problem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Room.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/Room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Event.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Hall.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Hall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Lab.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Lab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Problem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Problem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Room.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/Room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/class-use/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/com/company/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/jquery-ui.overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/jquery-ui.overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/JavaDocumentation/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Hall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Hall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Lab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Homework/src/com/company/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Homework/src/com/company/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Compulsory/src/com/company/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Homework/src/com/company/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Compulsory/src/main/java/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Homework/src/main/java/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Homework/src/main/java/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4Homework/src/main/java/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5Compulsory/src/main/java/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5Compulsory/src/main/java/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5Compulsory/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5Compulsory/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/App/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/App/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/App/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/App/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/Component/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7Compulsory/src/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7Compulsory/src/Player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Compulsory/src/main/java/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Compulsory/src/main/java/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Compulsory/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Compulsory/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Homework/src/main/java/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Homework/src/main/java/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Continent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Continent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8Homework/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorul1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorul1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorul1/src/com/company/wordNeighbours.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorul1/src/com/company/wordNeighbours.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29NswJqU7pNUvHkz5ojzvC1aJtQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Facultate/An2Sem2/PA---Java/Lab10Homework"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2002dc0-c6e0-416e-af06-dc98fcad775f" name="Changes" comment="" />
+      <created>1652965114629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652965114629</updated>
+      <workItem from="1652965115938" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

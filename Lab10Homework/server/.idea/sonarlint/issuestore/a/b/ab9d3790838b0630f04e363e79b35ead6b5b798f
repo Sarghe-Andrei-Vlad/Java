@@ -1,0 +1,15 @@
+
+i
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(“–ış
+L
+java:S2696!"6Make the enclosing method "static" or remove this set.(‡ÒÆ˜
+\
+java:S1193«"@Replace the usage of the "instanceof" operator by a catch block.(¸ì¯âúÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(§Í«
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(ïşæ·ûÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(¡ì¼Ô
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S11925"XDefine a constant instead of duplicating this literal "Please type a username!" 4 times.(ÈˆÔ™
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ßáìúÿÿÿÿ
